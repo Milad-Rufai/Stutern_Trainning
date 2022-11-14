@@ -1,0 +1,43 @@
+body{
+    background-color: white;
+    border-style: dashed;
+    border-radius: 5px;
+    border-color: black;
+    margin-top: 35px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+h1{
+    font-size: 18px;
+}
+
+.first{
+    color: green;
+    font-size: 14px;
+    padding: 15px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: #eb9c5c;
+    margin: 7px;
+}
+
+.second{
+    color: red;
+    font-size: 14px;
+    padding: 15px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: #80bd9e;
+    margin: 7px;
+}
+
+.third{
+    color: blue;
+    font-size: 14px;
+    padding: 15px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: #fedc97;
+    margin: 7px;
+}
