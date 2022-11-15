@@ -1,0 +1,30 @@
+body {
+    margin-left: 10%;
+    background-color: rgb(207, 239, 126);
+  }
+  
+  .likes {
+    color: rgb(126, 25, 226);
+    background-color: rgb(53, 187, 240);
+    width: 30%;
+    font-size: 20px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  
+  /* inheritance */
+  #my-like {
+    color: rgb(245, 20, 226);
+  }
+  
+  .dislikes {
+    margin-top: 40px;
+    color: brown;
+    background-color: rgb(47, 245, 16);
+    width: 30%;
+    font-size: 20px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+
+  #Mydislikes {
+    color: blue;
+  }
